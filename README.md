@@ -66,7 +66,7 @@ python your_script_name.py
 1. Add Items
 2. View Items
 3. View Expiring Items
-4. Delete Items
+4. Delete Items<br>
 -1. Exit<br>
 The system runs in a continuous loop until the user exits.<br>
 
